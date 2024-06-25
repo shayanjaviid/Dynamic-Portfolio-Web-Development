@@ -19,3 +19,4 @@ Explore my portfolio to learn more about my work and interests!
 ![1](https://github.com/shayanjaviid/-Dynamic-Portfolio---Web-Development-Showcase-/assets/104303445/241b9415-b5a1-45ca-9e5e-9bc4f35cec72)
 ![2](https://github.com/shayanjaviid/-Dynamic-Portfolio---Web-Development-Showcase-/assets/104303445/66ebb17b-7068-434f-a44c-48973e3c5ac0)
 ![3](https://github.com/shayanjaviid/-Dynamic-Portfolio---Web-Development-Showcase-/assets/104303445/e8b7e97a-cd69-4f0e-b4fd-1201d1c732dd)
+![2024-06-25 10-54-47](https://github.com/shayanjaviid/Dynamic-Portfolio-Web-Development/assets/104303445/689d2c2a-ffc2-4d32-b851-2202fe6b4eb6)
